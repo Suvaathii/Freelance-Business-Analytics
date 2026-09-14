@@ -1,61 +1,59 @@
-# Freelance Business Analytics
+Dynamic insight measures were also created to identify the top-performing month, product, category, customer type, and payment method based on the current filter context.
 
-A portfolio project demonstrating practical Business Analytics and Business Intelligence skills using Python, Pandas, Power BI, Power Query, DAX, and data visualization.
+📁 Project Structure
+📋 Project Workflow
+Data Layer
+Generated 2,000 retail transactions
+Created realistic sales, cost, product, customer, and payment data
+Stored the dataset as CSV
+Transformation Layer
+Loaded the dataset into Power BI
+Performed data transformation using Power Query
+Prepared fields for analysis
+Analytics Layer
+Created DAX measures
+Calculated revenue, cost, profit, margin, orders, and quantity
+Created dynamic executive insight measures
+Visualization Layer
+Designed an interactive Power BI dashboard
+Added KPI cards
+Added charts and slicers
+Implemented dynamic filtering
+Reporting Layer
+Extracted business insights
+Created executive-level summary views
+Documented the project as a portfolio case study
+🎓 Skills Demonstrated
+Business Analytics
+Data Analysis
+Data Cleaning
+Data Transformation
+Exploratory Data Analysis
+KPI Development
+Business Intelligence
+Power BI
+Power Query
+DAX
+Data Visualization
+Interactive Dashboard Development
+Business Insight Generation
+Python
+Pandas
+Git & GitHub
+📄 Detailed Case Study
 
----
+A detailed explanation of the project methodology, dashboard design, findings, and recommendations is available here:
 
-## 📊 Project 1 — Retail Sales Analytics Dashboard
+👉 Retail Sales Analytics Case Study
 
-An interactive Power BI dashboard designed to analyze retail sales performance across revenue, cost, profit, products, customer segments, and payment methods.
+🔮 Future Portfolio Projects
 
-### Key Metrics
+This repository will be expanded with additional analytics projects involving:
 
-| KPI | Value |
-|---|---:|
-| Revenue | ₹771.19K |
-| Cost | ₹472.86K |
-| Profit | ₹298.33K |
-| Profit Margin | 38.68% |
-| Orders | 2K |
-| Quantity Sold | 11K |
-
-### Dashboard Features
-
-- Monthly revenue trend
-- Revenue and profit by category
-- Top 10 products by revenue
-- Revenue by customer type
-- Revenue by payment method
-- Interactive category filtering
-- Interactive customer-type filtering
-- Interactive payment-method filtering
-- Date-range filtering
-- Dynamic executive insights
-
-### Tools Used
-
-- Python
-- Pandas
-- Power BI
-- Power Query
-- DAX
-- Data Visualization
-
-### Project Workflow
-
-```text
-Raw Transaction Data
-        ↓
-Python Data Preparation
-        ↓
-CSV Dataset
-        ↓
-Power Query Transformation
-        ↓
-Data Modeling
-        ↓
-DAX Measures
-        ↓
-Interactive Power BI Dashboard
-        ↓
-Business Insights
+📊 Sales Analytics
+👥 Customer Analytics
+💰 Financial Analytics
+📈 Advanced Power BI Reporting
+🐍 Python Data Analysis
+🗄️ SQL Analytics
+⚙️ Business Process Automation
